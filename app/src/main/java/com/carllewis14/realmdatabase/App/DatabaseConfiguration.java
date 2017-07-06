@@ -1,4 +1,4 @@
-package com.carllewis14.realmdatabase.Database;
+package com.carllewis14.realmdatabase.App;
 
 import android.app.Application;
 
